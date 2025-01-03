@@ -1,0 +1,1 @@
+This repository demonstrates a potential issue with trace statements in ActionScript 3.  Improper usage can lead to unexpected behavior, such as performance degradation or incorrect application logic. The `bug.as` file shows the problematic code, while `bugSolution.as` provides a solution.
